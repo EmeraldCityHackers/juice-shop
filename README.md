@@ -329,3 +329,5 @@ under the terms of the [MIT license](LICENSE). OWASP Juice Shop and any
 contributions are Copyright © by Bjoern Kimminich 2014-2019.
 
 ![Juice Shop Logo](https://raw.githubusercontent.com/bkimminich/juice-shop/develop/frontend/src/assets/public/images/JuiceShop_Logo_400px.png)
+
+Add new stuff
